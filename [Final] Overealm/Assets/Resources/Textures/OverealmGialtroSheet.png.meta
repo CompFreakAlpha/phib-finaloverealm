@@ -1,0 +1,3583 @@
+fileFormatVersion: 2
+guid: d1f7f1b251ceb6944946ab01ac23aa79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4749188984665701843
+    second: OverealmGialtroSheet_0
+  - first:
+      213: -4310044271333962236
+    second: OverealmGialtroSheet_1
+  - first:
+      213: -4018001419734519564
+    second: OverealmGialtroSheet_2
+  - first:
+      213: 2480849697680042914
+    second: OverealmGialtroSheet_3
+  - first:
+      213: 921323640585861092
+    second: OverealmGialtroSheet_4
+  - first:
+      213: 5501292544294064568
+    second: OverealmGialtroSheet_5
+  - first:
+      213: 5087472847403568836
+    second: OverealmGialtroSheet_6
+  - first:
+      213: -5747089196335246784
+    second: OverealmGialtroSheet_7
+  - first:
+      213: 9218996401780039448
+    second: OverealmGialtroSheet_8
+  - first:
+      213: -3547506865616891367
+    second: OverealmGialtroSheet_9
+  - first:
+      213: -1410607250722959366
+    second: OverealmGialtroSheet_10
+  - first:
+      213: 7725266468032153258
+    second: OverealmGialtroSheet_11
+  - first:
+      213: 8796986209318303409
+    second: OverealmGialtroSheet_12
+  - first:
+      213: 1580648753311036920
+    second: OverealmGialtroSheet_13
+  - first:
+      213: 2322066839496100000
+    second: OverealmGialtroSheet_14
+  - first:
+      213: 4242649589452716295
+    second: OverealmGialtroSheet_15
+  - first:
+      213: -5584920402789352580
+    second: OverealmGialtroSheet_16
+  - first:
+      213: 122194038180715524
+    second: OverealmGialtroSheet_17
+  - first:
+      213: 718000202759086604
+    second: OverealmGialtroSheet_18
+  - first:
+      213: 118140822152702541
+    second: OverealmGialtroSheet_19
+  - first:
+      213: 798172704039542286
+    second: OverealmGialtroSheet_20
+  - first:
+      213: -6187878846011038188
+    second: OverealmGialtroSheet_21
+  - first:
+      213: -5707119516315506328
+    second: OverealmGialtroSheet_22
+  - first:
+      213: -1092279053229129620
+    second: OverealmGialtroSheet_23
+  - first:
+      213: 3153681110509914829
+    second: OverealmGialtroSheet_24
+  - first:
+      213: 39742551455774470
+    second: OverealmGialtroSheet_25
+  - first:
+      213: -8825880440887272676
+    second: OverealmGialtroSheet_26
+  - first:
+      213: -5899808268048325714
+    second: OverealmGialtroSheet_27
+  - first:
+      213: -7615589108724401583
+    second: OverealmGialtroSheet_28
+  - first:
+      213: -661624327000318827
+    second: OverealmGialtroSheet_29
+  - first:
+      213: 796877246254983823
+    second: OverealmGialtroSheet_30
+  - first:
+      213: 3414477054512012487
+    second: OverealmGialtroSheet_31
+  - first:
+      213: 2680328844646123677
+    second: OverealmGialtroSheet_32
+  - first:
+      213: 4175073637532634746
+    second: OverealmGialtroSheet_33
+  - first:
+      213: 862250595613476832
+    second: OverealmGialtroSheet_34
+  - first:
+      213: 5977563507745150221
+    second: OverealmGialtroSheet_35
+  - first:
+      213: 7498168536162519438
+    second: OverealmGialtroSheet_36
+  - first:
+      213: 5122370676679641350
+    second: OverealmGialtroSheet_37
+  - first:
+      213: 6801351736118123186
+    second: OverealmGialtroSheet_38
+  - first:
+      213: -4501148380347436506
+    second: OverealmGialtroSheet_39
+  - first:
+      213: 8787130971624529557
+    second: OverealmGialtroSheet_40
+  - first:
+      213: 1834844664294043472
+    second: OverealmGialtroSheet_41
+  - first:
+      213: -4306937291614732388
+    second: OverealmGialtroSheet_42
+  - first:
+      213: -752905930571965951
+    second: OverealmGialtroSheet_43
+  - first:
+      213: -9169994059621013153
+    second: OverealmGialtroSheet_44
+  - first:
+      213: -7313949174848726815
+    second: OverealmGialtroSheet_45
+  - first:
+      213: 2198186608071681731
+    second: OverealmGialtroSheet_46
+  - first:
+      213: 541051460956741748
+    second: OverealmGialtroSheet_47
+  - first:
+      213: -5844770825027466186
+    second: OverealmGialtroSheet_48
+  - first:
+      213: -4857091403693384848
+    second: OverealmGialtroSheet_49
+  - first:
+      213: 3447369305730489345
+    second: OverealmGialtroSheet_50
+  - first:
+      213: -3160588424580781435
+    second: OverealmGialtroSheet_51
+  - first:
+      213: 5693017738963330721
+    second: OverealmGialtroSheet_52
+  - first:
+      213: -2301364084040383615
+    second: OverealmGialtroSheet_53
+  - first:
+      213: -2794203609973852572
+    second: OverealmGialtroSheet_54
+  - first:
+      213: -830942461352382604
+    second: OverealmGialtroSheet_55
+  - first:
+      213: 2640954690702761613
+    second: OverealmGialtroSheet_56
+  - first:
+      213: -6386520305910948706
+    second: OverealmGialtroSheet_57
+  - first:
+      213: -8817102248125973591
+    second: OverealmGialtroSheet_58
+  - first:
+      213: -6876598884166345532
+    second: OverealmGialtroSheet_59
+  - first:
+      213: 7240346321415121918
+    second: OverealmGialtroSheet_60
+  - first:
+      213: 6355486573531593996
+    second: OverealmGialtroSheet_61
+  - first:
+      213: 3745651934280750408
+    second: OverealmGialtroSheet_62
+  - first:
+      213: 1907855488538509000
+    second: OverealmGialtroSheet_63
+  - first:
+      213: -4402418331959985967
+    second: OverealmGialtroSheet_64
+  - first:
+      213: 3155054079793845448
+    second: OverealmGialtroSheet_65
+  - first:
+      213: 5497908994960077067
+    second: OverealmGialtroSheet_66
+  - first:
+      213: 7597663689287951983
+    second: OverealmGialtroSheet_67
+  - first:
+      213: 7359440730010475768
+    second: OverealmGialtroSheet_68
+  - first:
+      213: 4844597890317455856
+    second: OverealmGialtroSheet_69
+  - first:
+      213: -2486856546301317487
+    second: OverealmGialtroSheet_70
+  - first:
+      213: -7845465862911413510
+    second: OverealmGialtroSheet_71
+  - first:
+      213: -3396051610319602025
+    second: OverealmGialtroSheet_72
+  - first:
+      213: -7758289369278079681
+    second: OverealmGialtroSheet_73
+  - first:
+      213: 7275719128442513609
+    second: OverealmGialtroSheet_74
+  - first:
+      213: -8420236226820152543
+    second: OverealmGialtroSheet_75
+  - first:
+      213: 7128580159167646064
+    second: OverealmGialtroSheet_76
+  - first:
+      213: -1730414444172266015
+    second: OverealmGialtroSheet_77
+  - first:
+      213: -5015464514782514809
+    second: OverealmGialtroSheet_78
+  - first:
+      213: 1942612899817797407
+    second: OverealmGialtroSheet_79
+  - first:
+      213: 7000264291034835970
+    second: OverealmGialtroSheet_80
+  - first:
+      213: 2500827422555656589
+    second: OverealmGialtroSheet_81
+  - first:
+      213: -6448476152682537923
+    second: OverealmGialtroSheet_82
+  - first:
+      213: 6252272925944693198
+    second: OverealmGialtroSheet_83
+  - first:
+      213: -485127298834932450
+    second: OverealmGialtroSheet_84
+  - first:
+      213: -6786471115098192291
+    second: OverealmGialtroSheet_85
+  - first:
+      213: 7167645978356974206
+    second: OverealmGialtroSheet_86
+  - first:
+      213: -668452728473753575
+    second: OverealmGialtroSheet_87
+  - first:
+      213: 5912636675812550812
+    second: OverealmGialtroSheet_88
+  - first:
+      213: 5951413564387471222
+    second: OverealmGialtroSheet_89
+  - first:
+      213: 4055207246854781896
+    second: OverealmGialtroSheet_90
+  - first:
+      213: 1158655525211048360
+    second: OverealmGialtroSheet_91
+  - first:
+      213: -5792234586735124317
+    second: OverealmGialtroSheet_92
+  - first:
+      213: -2472122241440792396
+    second: OverealmGialtroSheet_93
+  - first:
+      213: -262411574842601241
+    second: OverealmGialtroSheet_94
+  - first:
+      213: 4109801394198220909
+    second: OverealmGialtroSheet_95
+  - first:
+      213: 3462010377885828283
+    second: OverealmGialtroSheet_96
+  - first:
+      213: -7272955572806506420
+    second: OverealmGialtroSheet_97
+  - first:
+      213: 6412440327171178219
+    second: OverealmGialtroSheet_98
+  - first:
+      213: 5224553766893615622
+    second: OverealmGialtroSheet_99
+  - first:
+      213: 1131512868132169343
+    second: OverealmGialtroSheet_100
+  - first:
+      213: 2412898190208350861
+    second: OverealmGialtroSheet_101
+  - first:
+      213: 5113025405110064438
+    second: OverealmGialtroSheet_102
+  - first:
+      213: 79404516879432055
+    second: OverealmGialtroSheet_103
+  - first:
+      213: -1312531272840416779
+    second: OverealmGialtroSheet_104
+  - first:
+      213: 9119183740416638608
+    second: OverealmGialtroSheet_105
+  - first:
+      213: 2615985891039499283
+    second: OverealmGialtroSheet_106
+  - first:
+      213: 8284862021088546648
+    second: OverealmGialtroSheet_107
+  - first:
+      213: 4636521353535537565
+    second: OverealmGialtroSheet_108
+  - first:
+      213: -3819712997079211345
+    second: OverealmGialtroSheet_109
+  - first:
+      213: -3229348906712022446
+    second: OverealmGialtroSheet_110
+  - first:
+      213: 7593039534038977189
+    second: OverealmGialtroSheet_111
+  - first:
+      213: -6948854786834469951
+    second: OverealmGialtroSheet_112
+  - first:
+      213: 3141868503859365630
+    second: OverealmGialtroSheet_113
+  - first:
+      213: -7086539955471457543
+    second: OverealmGialtroSheet_114
+  - first:
+      213: -7477979029756094450
+    second: OverealmGialtroSheet_115
+  - first:
+      213: 4984341306171358421
+    second: OverealmGialtroSheet_116
+  - first:
+      213: 8921921887013003731
+    second: OverealmGialtroSheet_117
+  - first:
+      213: 6903816844856888276
+    second: OverealmGialtroSheet_118
+  - first:
+      213: 2339193084303977734
+    second: OverealmGialtroSheet_119
+  - first:
+      213: -3175266216796114361
+    second: OverealmGialtroSheet_120
+  - first:
+      213: -2361752027629192871
+    second: OverealmGialtroSheet_121
+  - first:
+      213: 974727020853218628
+    second: OverealmGialtroSheet_122
+  - first:
+      213: 5246207282350817439
+    second: OverealmGialtroSheet_123
+  - first:
+      213: -8105086047242617603
+    second: OverealmGialtroSheet_124
+  - first:
+      213: -8824610345456523368
+    second: OverealmGialtroSheet_125
+  - first:
+      213: -4050620686355339985
+    second: OverealmGialtroSheet_126
+  - first:
+      213: 2556695189294111994
+    second: OverealmGialtroSheet_127
+  - first:
+      213: 4731143301037208397
+    second: OverealmGialtroSheet_128
+  - first:
+      213: 6300747276384205465
+    second: OverealmGialtroSheet_129
+  - first:
+      213: -6729541365502435069
+    second: OverealmGialtroSheet_130
+  - first:
+      213: 4517950043716477328
+    second: OverealmGialtroSheet_131
+  - first:
+      213: -8597761557337185159
+    second: OverealmGialtroSheet_132
+  - first:
+      213: 4332232676563638282
+    second: OverealmGialtroSheet_133
+  - first:
+      213: -8596861407905488955
+    second: OverealmGialtroSheet_134
+  - first:
+      213: -3175099158091467286
+    second: OverealmGialtroSheet_135
+  - first:
+      213: 8715051863541513064
+    second: OverealmGialtroSheet_136
+  - first:
+      213: -2664452068868925721
+    second: OverealmGialtroSheet_137
+  - first:
+      213: 9046524063555726254
+    second: OverealmGialtroSheet_138
+  - first:
+      213: -303227908607092968
+    second: OverealmGialtroSheet_139
+  - first:
+      213: 6662897229550568773
+    second: OverealmGialtroSheet_140
+  - first:
+      213: -2305321286199777720
+    second: OverealmGialtroSheet_141
+  - first:
+      213: -5511189907156979914
+    second: OverealmGialtroSheet_142
+  - first:
+      213: 8458552767190644871
+    second: OverealmGialtroSheet_143
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f309e4c525e9d749bc44ce2fbd0b05f
+      internalID: -4749188984665701843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239be490a40a5754c99299f534ee6abc
+      internalID: -4310044271333962236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a46417da016ac47b8c6cff19639888
+      internalID: -4018001419734519564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545bbe8d1cf0f254ab8991dcd365933c
+      internalID: 2480849697680042914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712f4b66a10e5d47acd65589df35667
+      internalID: 921323640585861092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461cde46ceecbc64d802328fe6a5901b
+      internalID: 5501292544294064568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ea47de145e474fb32b5091543fa2c
+      internalID: 5087472847403568836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81ba32e174651469fe7fbc47d00bdf
+      internalID: -5747089196335246784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8fb3ae34133d4c824b8ea7bdbfd91
+      internalID: 9218996401780039448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d386c7311260efe44865b9b354c96aef
+      internalID: -3547506865616891367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3806edcc982515d45874062160bab747
+      internalID: -1410607250722959366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b77569ebe597d469a52c633b93f3fd
+      internalID: 7725266468032153258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90edf6bfd5daa984090206bfbd808406
+      internalID: 8796986209318303409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9906bf81bf9b9064da8f4e5a5b82136a
+      internalID: 1580648753311036920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68246c0500b9f0947a3caf8b735aac19
+      internalID: 2322066839496100000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bc9abb2c2bf0946a3cd6a94356b9fe
+      internalID: 4242649589452716295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4c674365044924eb8f3a954b3ee9a1
+      internalID: -5584920402789352580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b292eeda31ef4444b90f3115f1d61a3
+      internalID: 122194038180715524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c12620e3bfbff47ad7fc37df8876ba
+      internalID: 718000202759086604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc9d0f6fa57c3c489ebaddd7f620516
+      internalID: 118140822152702541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc33b21d9ebea4d9442054c82d6044
+      internalID: 798172704039542286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec72b88f4d5b224094f750ec0d2d8c0
+      internalID: -6187878846011038188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca010bb0780e95442b6d67fee8b40657
+      internalID: -5707119516315506328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee198a8c04a4a644cb056d6d95c3b661
+      internalID: -1092279053229129620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc176c9246407943b468f4a471b3c66
+      internalID: 3153681110509914829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5734cfc94b2f44f8409eba484952a0
+      internalID: 39742551455774470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94392a976901ba40ae213ded5027d9f
+      internalID: -8825880440887272676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346952a7371aa4e49b29386e3955c822
+      internalID: -5899808268048325714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1b6e5a179c1b4a83f7d9d337e85ce
+      internalID: -7615589108724401583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffae656829eb2a42add12cc27dba622
+      internalID: -661624327000318827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d6ddc329dbe10489f57ee066b8b422
+      internalID: 796877246254983823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a6225772565145a0da460c9a898c7
+      internalID: 3414477054512012487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a9aa3a7424fc844bbbf8cc8cc4b501
+      internalID: 2680328844646123677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_33
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c16c6a843dfc114ea6f56354b11eadd
+      internalID: 4175073637532634746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b006a3c6cf0124a8e8bbb6ec2a79ec
+      internalID: 862250595613476832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd2da5ee5a94b1439f7a851aefa8433
+      internalID: 5977563507745150221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b8df64d89b7a49af67fbcee5fd760
+      internalID: 7498168536162519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d595e8ae54c724686c0ae989e945ba
+      internalID: 5122370676679641350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f7103fc919374fa2aebb987d92764
+      internalID: 6801351736118123186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb1d8b48ec7cee469dcadddca12a97a
+      internalID: -4501148380347436506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_40
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4cb3b6926a42c42802e0577005e296
+      internalID: 8787130971624529557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_41
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3850b65db15594d833ea99aca30101
+      internalID: 1834844664294043472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95c076803a557479599a588d890c56
+      internalID: -4306937291614732388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e43adb81c96ea24cbe9b8da921364c8
+      internalID: -752905930571965951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_44
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b443e89d15755447b38a1943cf92703
+      internalID: -9169994059621013153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026b65e9a11b924c8637646ebe0782f
+      internalID: -7313949174848726815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a432c6859f4c428755f6ee59778b4
+      internalID: 2198186608071681731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a5b9f78ebd05a439749612a0510d1b
+      internalID: 541051460956741748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82e18f67187ae4782b32fe0dbffa5f
+      internalID: -5844770825027466186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0e0a13644931e468eb9132954b5b24
+      internalID: -4857091403693384848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd73141c76b7040a8128f4b0d911a0
+      internalID: 3447369305730489345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_51
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bfbe397633b3418c9bf23dcaa3504
+      internalID: -3160588424580781435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_52
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f1200e22202c34d9ba8b0c74a631f3
+      internalID: 5693017738963330721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_53
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9747d2f03cc5faa49890ee9f69788f36
+      internalID: -2301364084040383615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd30586ca7e5774b99470c29306c0d5
+      internalID: -2794203609973852572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad0abb07c15b448a640ce4ed3debc1
+      internalID: -830942461352382604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d8138e996b176419feda5603c06621
+      internalID: 2640954690702761613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586340a525dbb124b89cc3dde62883e9
+      internalID: -6386520305910948706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75a37c48ee10754897ddd2c32a55a76
+      internalID: -8817102248125973591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cbf3276cfd1b548891789aa0732ad2
+      internalID: -6876598884166345532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_60
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9eaa0f3a2ab4f47a6db87027df1fa3
+      internalID: 7240346321415121918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590a390990b24724e9df507fac068264
+      internalID: 6355486573531593996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5c70c688b357c45b20976a54bbf9fd
+      internalID: 3745651934280750408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa842a580b6c454dba457e96a1bb192
+      internalID: 1907855488538509000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f24548d800c94ebb55dc2a33ee3a6
+      internalID: -4402418331959985967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5075b2562436b45b8acbbd989e39e0
+      internalID: 3155054079793845448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_66
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758792f32f115a742bbdd947535fb1ff
+      internalID: 5497908994960077067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_67
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c220e43d1dc64de40be6bb94ec0423fc
+      internalID: 7597663689287951983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c57a01501358a46aeb634ce051058c
+      internalID: 7359440730010475768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_69
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1008
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25f7bd3d1658c4ebd4dff490702866
+      internalID: 4844597890317455856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_70
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 993
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69da3875f38fba48a0f4e9cd9555844
+      internalID: -2486856546301317487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 984
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea678e655978a1141b6d695421fd0299
+      internalID: -7845465862911413510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6c82b7af775f94b854127ff0204a1a
+      internalID: -3396051610319602025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797a53ce1683b54b85ae5547314bedf
+      internalID: -7758289369278079681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e945e6cd62c11bd48a8314cb0d3cd3a0
+      internalID: 7275719128442513609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4cd60aef8dcc14691856424fcc4ab1
+      internalID: -8420236226820152543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_76
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53f3c064e63d16409455f7d929b4bc5
+      internalID: 7128580159167646064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_77
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc810e1927f3c2a48af94432c3f9bc4b
+      internalID: -1730414444172266015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8b618f3cecdbb4396068f7ac619ae7
+      internalID: -5015464514782514809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6f976a594f574cad4c8aac8ddca23
+      internalID: 1942612899817797407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8456859b5a78ea24cbf96eb09e7c3b51
+      internalID: 7000264291034835970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba38a91a138d740bc2bdd4600c4854
+      internalID: 2500827422555656589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91fcbe9b32a3004a9c8178b7139d03c
+      internalID: -6448476152682537923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_83
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc7a3b2cf3eeb44937591b0acf4be1
+      internalID: 6252272925944693198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac050641e9988f41bc41b3f44f0e05e
+      internalID: -485127298834932450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a77a8659b62bc4fa07737a40def8be
+      internalID: -6786471115098192291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317c2561f9c2c494fa384d5f7aa206a8
+      internalID: 7167645978356974206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784d597c77b69a49bcd4c001e5993e4
+      internalID: -668452728473753575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddff10bc424f2b4f8dd810d1c4a1031
+      internalID: 5912636675812550812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79ed35b20b6c042b9e83a72dada366
+      internalID: 5951413564387471222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff3f89adae0fa945a55e2ee1554b087
+      internalID: 4055207246854781896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dfbb2228e208438608a4350b4f491
+      internalID: 1158655525211048360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e645ef162fc24780f64a38ad268a2
+      internalID: -5792234586735124317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_93
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003a30146cbb604183059e06f74f275
+      internalID: -2472122241440792396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c735d9fe2434e42b8f11832c9e450f
+      internalID: -262411574842601241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_95
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625507f9bbaa094cb5ffbc88368c90b
+      internalID: 4109801394198220909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606de71ac40cf3145aa569de4bed8c02
+      internalID: 3462010377885828283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44542e08a7cf7642a5dcae85e857183
+      internalID: -7272955572806506420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9e11049f403e64ab5119cd19ddff6a
+      internalID: 6412440327171178219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_99
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0b90a184ff1e48aa0558fb263ab49
+      internalID: 5224553766893615622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923365b60954b4541ac6d18ac024085b
+      internalID: 1131512868132169343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b97c07a255a842b219cd356606d48
+      internalID: 2412898190208350861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_102
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecde5e7ff83f944cb2bfb418a4b05ab
+      internalID: 5113025405110064438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e21c39f860497349989332f7ad2e985
+      internalID: 79404516879432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dac52e399145d4f9ede3c603fbce45
+      internalID: -1312531272840416779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_105
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88758ce647a4f1478c38d7e4e692862
+      internalID: 9119183740416638608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3408b70d9009204891bb21d8e741910
+      internalID: 2615985891039499283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4b4f9a73a21c4daa57dd8f78d0c02
+      internalID: 8284862021088546648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d100f797c1f56354b8a83a14c3c654c6
+      internalID: 4636521353535537565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ea18cbb0bfd6448b9c9cfa421a294
+      internalID: -3819712997079211345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_110
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8f2976bf60d674283e0d5aa21d68d8
+      internalID: -3229348906712022446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_111
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd1dc8ca9bbe840a859c34bb11ef74
+      internalID: 7593039534038977189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_112
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42161b919e12c4d86bfe8fe1c98c08
+      internalID: -6948854786834469951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_113
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d54923cc8421f541955253aecdf5225
+      internalID: 3141868503859365630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93260ab12905145a31cfb20d7e3d85
+      internalID: -7086539955471457543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac1ed823d77be04ea582c8d196f2455
+      internalID: -7477979029756094450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_116
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff65ce57d5c094083305ab49a4fd2f
+      internalID: 4984341306171358421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee09ce286c4fb044b69457bfbe3d4a6
+      internalID: 8921921887013003731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50d47bce0435044b79d7f048ffde35
+      internalID: 6903816844856888276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8df50d9a2f8c544a5f124b09b82725
+      internalID: 2339193084303977734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_120
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b551d662f614d034ebbe0b626852f9b6
+      internalID: -3175266216796114361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae47ad1dadab914ab0427a0cfd0df33
+      internalID: -2361752027629192871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_122
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6333dd755303df49949e4ad508ead81
+      internalID: 974727020853218628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a1337f2ef6b49439c23c74d12bdcd1
+      internalID: 5246207282350817439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_124
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30113b5e4947b06488b451109479c502
+      internalID: -8105086047242617603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_125
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa46163594b3ae498a02e9dd43c101e
+      internalID: -8824610345456523368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_126
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d257906f9e41a44f9f8fde0a88422e7
+      internalID: -4050620686355339985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9537e399c054742b553d103f063fa8
+      internalID: 2556695189294111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_128
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406468253943ef489afc157889b8d6b
+      internalID: 4731143301037208397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e45ed9281cec5e4daac642428a2e393
+      internalID: 6300747276384205465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_130
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc535efc362be544fba030908d722d39
+      internalID: -6729541365502435069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d087b245151ab4991b92a1f4bfc19a
+      internalID: 4517950043716477328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17558a6d9e3a6384f9be0d343c803b99
+      internalID: -8597761557337185159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cddd70f868fb64c9b3a07fb247faa9
+      internalID: 4332232676563638282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_134
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dca322cbbb25544a4536b2b25ad26c
+      internalID: -8596861407905488955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_135
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e71743a48462148b40cf6e4191b35e
+      internalID: -3175099158091467286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_136
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b46085ff7098f640bc37d4ea1ca24b7
+      internalID: 8715051863541513064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_137
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37471daa6b93daa43b7419bd323ee48c
+      internalID: -2664452068868925721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ce5fdcb399e6345963f270181ac79e
+      internalID: 9046524063555726254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_139
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801eed4f7b2a98b45868dadd694ff421
+      internalID: -303227908607092968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_140
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde28fc46a9755f44b06ff4e88af3660
+      internalID: 6662897229550568773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_141
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 968
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f84e8ea4f8f2fe48b9b4616fee6bc0a
+      internalID: -2305321286199777720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_142
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 953
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831705ce509138a41a18dafeda2fbe4e
+      internalID: -5511189907156979914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OverealmGialtroSheet_143
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 944
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454cd9c70ed8384aac32984a930b749
+      internalID: 8458552767190644871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

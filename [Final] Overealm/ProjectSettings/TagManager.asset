@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactable
+  - Transitions
+  - Post
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lowest
+    uniqueID: 4016409161
+    locked: 0
+  - name: UnderFloor
+    uniqueID: 2491154019
+    locked: 0
+  - name: Floor
+    uniqueID: 1452975767
+    locked: 0
+  - name: OnFloor
+    uniqueID: 1106790267
+    locked: 0
+  - name: Player
+    uniqueID: 3837800531
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 489893541
+    locked: 0
+  - name: WayAbovePlayer
+    uniqueID: 1210450211
+    locked: 0
+  - name: UI
+    uniqueID: 3413238753
+    locked: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 221e47c85052fd541bf31d8902544f9f, type: 3}
+  m_Name: FloorTile
+  m_EditorClassIdentifier: 
+  RawTileImage: {fileID: 6749154424847804452, guid: 5678663d1f62e9f4582acf2c2da46ce1,
+    type: 3}
+  sprites:
+  - spr: {fileID: 6749154424847804452, guid: 5678663d1f62e9f4582acf2c2da46ce1, type: 3}
+    relativeChance: 100
+  - spr: {fileID: 5578118516794605539, guid: 5678663d1f62e9f4582acf2c2da46ce1, type: 3}
+    relativeChance: 860
+  - spr: {fileID: 7789626606268946963, guid: 5678663d1f62e9f4582acf2c2da46ce1, type: 3}
+    relativeChance: 15
+  - spr: {fileID: 302166099096837686, guid: 5678663d1f62e9f4582acf2c2da46ce1, type: 3}
+    relativeChance: 50
